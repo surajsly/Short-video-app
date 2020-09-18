@@ -28,7 +28,7 @@ function Video() {
       ></video>
 
       <VideoFooter />
-      {/*video footer*/}
+
       {/*video sideBar */}
     </div>
   );
