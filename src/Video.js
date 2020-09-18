@@ -28,7 +28,11 @@ function Video({ url }) {
         src={url}
       ></video>
 
-      <VideoFooter channel="suraj" description="clone" song="this is a song" />
+      <VideoFooter
+        channel="surajsingh"
+        description="clone"
+        song="this is a song"
+      />
       <VideoSidebar likes={101} shares={222} messages={333} />
       {/*video sideBar */}
     </div>
